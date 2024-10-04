@@ -34,3 +34,7 @@ canvas {
     margin: 2rem auto;
     background-color: var(--primary-color);
 }
+
+footer p {
+    color: var(--bg-color);
+}
