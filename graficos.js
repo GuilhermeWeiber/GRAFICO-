@@ -1,5 +1,5 @@
-const ctxPizza1 = document.getElementById('graficoPizza').getContext('2d');
-const graficoPizza = new Chart(ctxPizza, {
+const ctxPizza1 = document.getElementById('graficoPizza1').getContext('2d');
+const graficoPizza1 = new Chart(ctxPizza1, {
     type: 'pie',
     data: {
         labels: ['Sim', 'Não', 'As vezes'],
@@ -27,8 +27,8 @@ const graficoPizza = new Chart(ctxPizza, {
     }
 })
 
-const ctxPizza2 = document.getElementById('graficoPizza').getContext('2d');
-const graficoPizza = new Chart(ctxPizza, {
+const ctxPizza2 = document.getElementById('graficoPizza2').getContext('2d');
+const graficoPizza2 = new Chart(ctxPizza2, {
     type: 'pie',
     data: {
         labels: ['Musculação', 'Volei', 'Caminhar', 'Futebol', 'Outros', 'Nada'],
@@ -56,8 +56,8 @@ const graficoPizza = new Chart(ctxPizza, {
     }
 })
 
-const ctxPizza3 = document.getElementById('graficoPizza').getContext('2d');
-const graficoPizza = new Chart(ctxPizza, {
+const ctxPizza3 = document.getElementById('graficoPizza3').getContext('2d');
+const graficoPizza3 = new Chart(ctxPizza3, {
     type: 'pie',
     data: {
         labels: ['1 a 2 vezes', '3 a 5 vezes', '6 a 7 vezes'],
@@ -85,8 +85,8 @@ const graficoPizza = new Chart(ctxPizza, {
     }
 })
 
-const ctxPizza4 = document.getElementById('graficoPizza').getContext('2d');
-const graficoPizza = new Chart(ctxPizza, {
+const ctxPizza4 = document.getElementById('graficoPizza4').getContext('2d');
+const graficoPizza4 = new Chart(ctxPizza4, {
     type: 'pie',
     data: {
         labels: ['menos de 1 ano', 'de 1 a 2 anos', 'mais de 3 anos', '10 anos', 'desde que aprendi a andar'],
@@ -114,8 +114,8 @@ const graficoPizza = new Chart(ctxPizza, {
     }
 })
 
-const ctxPizza5 = document.getElementById('graficoPizza').getContext('2d');
-const graficoPizza = new Chart(ctxPizza, {
+const ctxPizza5 = document.getElementById('graficoPizza5').getContext('2d');
+const graficoPizza5 = new Chart(ctxPizza5, {
     type: 'pie',
     data: {
         labels: ['quero perder peso', 'quero ganhar peso', 'quero manter o fisico', 'pra zoar com os guri', 'quero manter minha saude', 'para ser melhor que os outros'],
@@ -143,8 +143,8 @@ const graficoPizza = new Chart(ctxPizza, {
     }
 })
 
-const ctxPizza6 = document.getElementById('graficoPizza').getContext('2d');
-const graficoPizza = new Chart(ctxPizza, {
+const ctxPizza6 = document.getElementById('graficoPizza6').getContext('2d');
+const graficoPizza6 = new Chart(ctxPizza6, {
     type: 'pie',
     data: {
         labels: ['sim', 'nao', 'volei pae', 'damas', 'xadrez'],
