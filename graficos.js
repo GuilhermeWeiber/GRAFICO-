@@ -1,4 +1,4 @@
-const ctxPizza = document.getElementById('graficoPizza').getContext('2d');
+const ctxPizza1 = document.getElementById('graficoPizza').getContext('2d');
 const graficoPizza = new Chart(ctxPizza, {
     type: 'pie',
     data: {
@@ -27,7 +27,7 @@ const graficoPizza = new Chart(ctxPizza, {
     }
 })
 
-const ctxPizza = document.getElementById('graficoPizza').getContext('2d');
+const ctxPizza2 = document.getElementById('graficoPizza').getContext('2d');
 const graficoPizza = new Chart(ctxPizza, {
     type: 'pie',
     data: {
@@ -56,7 +56,7 @@ const graficoPizza = new Chart(ctxPizza, {
     }
 })
 
-const ctxPizza = document.getElementById('graficoPizza').getContext('2d');
+const ctxPizza3 = document.getElementById('graficoPizza').getContext('2d');
 const graficoPizza = new Chart(ctxPizza, {
     type: 'pie',
     data: {
@@ -85,7 +85,7 @@ const graficoPizza = new Chart(ctxPizza, {
     }
 })
 
-const ctxPizza = document.getElementById('graficoPizza').getContext('2d');
+const ctxPizza4 = document.getElementById('graficoPizza').getContext('2d');
 const graficoPizza = new Chart(ctxPizza, {
     type: 'pie',
     data: {
@@ -114,7 +114,7 @@ const graficoPizza = new Chart(ctxPizza, {
     }
 })
 
-const ctxPizza = document.getElementById('graficoPizza').getContext('2d');
+const ctxPizza5 = document.getElementById('graficoPizza').getContext('2d');
 const graficoPizza = new Chart(ctxPizza, {
     type: 'pie',
     data: {
@@ -143,7 +143,7 @@ const graficoPizza = new Chart(ctxPizza, {
     }
 })
 
-const ctxPizza = document.getElementById('graficoPizza').getContext('2d');
+const ctxPizza6 = document.getElementById('graficoPizza').getContext('2d');
 const graficoPizza = new Chart(ctxPizza, {
     type: 'pie',
     data: {
